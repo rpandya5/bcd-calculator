@@ -1,4 +1,4 @@
-# BCD-Calculator-Core
+# BCD-Calculator
 
 ## Overview
 A sophisticated digital arithmetic processing unit implemented in Verilog, focusing on Binary-Coded Decimal operations with real-time display capabilities.
